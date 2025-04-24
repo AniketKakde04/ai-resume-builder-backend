@@ -398,6 +398,7 @@ export interface ApiUserResumeUserResume extends Struct.CollectionTypeSchema {
     > &
       Schema.Attribute.Private;
     phone: Schema.Attribute.String;
+    projects: Schema.Attribute.Component<'projects.projects', true>;
     publishedAt: Schema.Attribute.DateTime;
     resumeid: Schema.Attribute.String;
     skills: Schema.Attribute.Component<'skills.skills', true>;
