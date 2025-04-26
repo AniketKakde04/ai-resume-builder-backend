@@ -68,12 +68,6 @@
       "type": "component",
       "repeatable": true,
       "component": "projects.projects"
-    },
-    "achievements": {
-      "displayName": "achievements",
-      "type": "component",
-      "repeatable": true,
-      "component": "achievements.achievements"
     }
   }
 }
