@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_achievements_achievements",
+  "info": {
+    "displayName": "achievements",
+    "icon": "brush"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

@@ -68,6 +68,11 @@
       "type": "component",
       "repeatable": true,
       "component": "projects.projects"
+    },
+    "achievements": {
+      "type": "component",
+      "repeatable": true,
+      "component": "achievements.achievements"
     }
   }
 }
